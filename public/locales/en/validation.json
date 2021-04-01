@@ -1,0 +1,7 @@
+{
+  "yup": {
+    "required": "This field is required",
+    "min": "Too short",
+    "max": "Too long"
+  }
+}

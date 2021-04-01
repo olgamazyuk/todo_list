@@ -1,0 +1,14 @@
+{
+  "header": {
+    "title": "Todo List",
+    "addTodo": "Add Todo"
+  },
+  "todo": {
+    "delete": "Delete",
+    "edit": "Edit",
+    "details": "Details:",
+    "title": "Title:",
+    "noMatch": "No such todo"
+  },
+  "submit": "Submit"
+}
